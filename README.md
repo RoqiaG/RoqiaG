@@ -60,7 +60,7 @@ I'm a Computer and Information Science graduate (Information Systems, Ain Shams 
 | Project | What it does | Tech |
 |---|---|---|
 | [**E-Commerce Chatbot**](https://github.com/RoqiaG/E-commerce-Chat-Bot) | Graduation project: an NLP chatbot that helps customers on an e-commerce site. | Python, NLP, Django, React |
-| [**Machine learning project**](https://github.com/RoqiaG/Customer-Segment) | Python, scikit-learn,matplotlib |
+| [**Customer-Segment**](https://github.com/RoqiaG/Customer-Segment)|Machine Learning Project for Clustering Model to group similar customers togethe | Python, scikit-learn,matplotlib |
 
 ---
 
