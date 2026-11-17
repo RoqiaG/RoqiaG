@@ -6,7 +6,7 @@
 
 <p align="center">
   Cairo, Egypt 🇪🇬 &nbsp;|&nbsp;
-  <a href="linkedin.com/in/roqaiagamal">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/roqaiagamal/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:roqiagamalfathy@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="https://www.kaggle.com/roqia28">Kaggle / Portfolio</a>
 </p>
@@ -78,4 +78,4 @@ I'm a Computer and Information Science graduate (Information Systems, Ain Shams 
 
 ## 📫 Let's Connect
 
-I'm open to data roles and collaborations. Feel free to reach out via [LinkedIn](linkedin.com/in/roqaiagamal) or [email](mailto:roqiagamalfathy@gmail.com).
+I'm open to data roles and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roqaiagamal/) or [email](mailto:roqiagamalfathy@gmail.com).
