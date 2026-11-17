@@ -1,14 +1,8 @@
-<!--
-HOW TO USE THIS FILE
-1. On GitHub, create a NEW public repository named exactly: YOUR-USERNAME
-   (it must match your username; tick "Add a README file").
-2. Replace that README's content with this file.
-3. Search for "YOUR-" and "TODO" and replace every one.
-4. Delete any skill badge you can't confidently talk about in an interview.
--->
 
-<h1 align="center">Hi, I'm Roqia Gamal Fathy 👋</h1>
-<h3 align="center">Aspiring Data Scientist · Python · Machine Learning · NLP</h3>
+
+<h1 align="center">Roqia Gamal Fathy</h1>
+<h3 align="center">Data Science · Machine Learning · Natural Language Processing</h3>
+<p align="center">Computer and Information Science Graduate · Python · Data Analysis</p>
 
 <p align="center">
   Cairo, Egypt 🇪🇬 &nbsp;|&nbsp;
